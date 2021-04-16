@@ -84,3 +84,9 @@ tools/genrec/ | Generate a DIME management record which must be added to the DNS
 A slightly outdated video presentation of the DIME standard and the various command line tools:
 
 https://www.youtube.com/watch?v=TWzvXaxR6us
+
+
+<a href="https://scan.coverity.com/projects/libdime">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/22979/badge.svg"/>
+</a>
